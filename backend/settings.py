@@ -29,7 +29,7 @@ SECRET_KEY = "django-insecure-oxx3klx#qzj2xktleqi6-yb$!wg!=^%h&l52f64e2&_4f22phq
 DEBUG = True
 
 ALLOWED_HOSTS = ['bc-backend-railway-test-production.up.railway.app']
-CSRF_TRUSTED_ORIGINS=['https://bc-backend-railway-test-production.up.railway.app/']
+CSRF_TRUSTED_ORIGINS=['https://bc-backend-railway-test-production.up.railway.app']
 
 # Application definition
 
